@@ -19,8 +19,8 @@ Welcome to my GitHub profile! I'm glad you're here. 😊
 
 ## About Me
 
-I'm a passionate Full Stack Developer with a strong foundation in both frontend and backend technologies.
-with love for building web applications and exploring new technologies and Passion for Continuous Learning.
+I'm a passionate Full Stack Developer with a strong foundation in both frontend and backend technologies.,
+with love for building web applications and exploring new technologies and Passion for Continuous Learning.,
 My primary stack includes:
 - **Frontend:** React, TypeScript, Redux, Vite, HTML, CSS, JavaScript, python
 - **Backend:** Node.js, Express, PostgreSQL (NeonDB)
