@@ -48,3 +48,16 @@ Thanks for stopping by! 😃
 
   ![Jokes Card](https://readme-jokes.vercel.app/api?theme=halloween)
 
+
+### 📈 GitHub Stats:
+<div align="center">
+  
+  ![](https://github-readme-stats.vercel.app/api?Galomer310=Galomer310&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false)
+  
+  ![](https://github-readme-streak-stats.herokuapp.com/?user=Galomer310&theme=tokyonight&hide_border=false)
+
+  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Galomer310&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
+  ![](https://github-readme-activity-graph.vercel.app/graph?username=Galomer310&theme=tokyo-night)
+</div>
+
