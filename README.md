@@ -34,13 +34,6 @@ Currently, I'm working on **StockTrack**, a web-based platform for tracking stoc
 - Enhancing authentication and security features.
 - Optimizing API calls to improve performance.
 
-## How to Reach Me 📫
-- 📧 Email: [galomer6708@gmail.com]
-- 💼 LinkedIn: [www.linkedin.com/in/gal-omer]
-
-Let's connect and collaborate! 🚀
-
-
 ### 📈 GitHub Stats:
 <div align="center">
   
@@ -53,6 +46,11 @@ Let's connect and collaborate! 🚀
   ![](https://github-readme-activity-graph.vercel.app/graph?username=Galomer310&theme=tokyo-night)
 </div>
 
+## How to Reach Me 📫
+- 📧 Email: [galomer6708@gmail.com]
+- 💼 LinkedIn: [www.linkedin.com/in/gal-omer]
+
+Let's connect and collaborate! 🚀
 
 Thanks for stopping by! 😃
 
