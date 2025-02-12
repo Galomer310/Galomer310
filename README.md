@@ -1,4 +1,4 @@
-<h1 align="center"> Hey there! 👋<img src="https://github.com/Galomer310/Galomer310/blob/main/icons/Hi.gif" width="28px"/>,I'm Gal Omer</h1>
+<h1 align="center"> Hey there! 👋<img src="https://github.com/Galomer310/Galomer310/blob/main/icons/Hi.gif" width="28px"/>, I'm Gal Omer</h1>
 
 <h2 align="center">
   <img src="https://komarev.com/ghpvc/?username=Galomer310&color=dc143c&style=for-the-badge" alt="Profile Views" style="height:21px;">
@@ -67,6 +67,11 @@ Thanks for stopping by! 😃
   <div align="center">
 
   ![Jokes Card](https://readme-jokes.vercel.app/api?theme=halloween)
+  </div>
+
+  ### 🎧 Now Playing:
+![Spotify](https://novatorem-Galomer310.vercel.app/api/spotify)
+
 
 
 
