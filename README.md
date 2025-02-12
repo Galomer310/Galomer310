@@ -33,6 +33,4 @@ Thanks for stopping by! 😃
 
   ![Jokes Card](https://readme-jokes.vercel.app/api?theme=halloween)
 
-  </div>
-</details>
-![image](https://github.com/user-attachments/assets/8b6759b4-e54c-413c-9eff-778ac0354615)
+
