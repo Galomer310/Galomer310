@@ -1,16 +1,38 @@
-## Hi there 👋
+# Hey there! 👋
 
-<!--
-**Galomer310/Galomer310** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm glad you're here. 😊
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a passionate Full Stack Developer with a strong foundation in both frontend and backend technologies.
+with love for building web applications and exploring new technologies and Passion for Continuous Learning.
+My primary stack includes:
+- **Frontend:** React, TypeScript, Redux, Vite, HTML, CSS, JavaScript, python
+- **Backend:** Node.js, Express, PostgreSQL (NeonDB)
+- **Authentication:** JWT, bcrypt
+- **APIs & Data:**  RESTful APIs
+
+Currently, I'm working on **StockTrack**, a web-based platform for tracking stock market performance, managing watchlists, and fetching real-time stock data.
+
+## What I'm Working On 🛠️
+- Developing **StockTrack** with a robust backend and seamless frontend experience.
+- Enhancing authentication and security features.
+- Optimizing API calls to improve performance.
+
+## How to Reach Me 📫
+- 📧 Email: [galomer6708@gmail.com]
+- 💼 LinkedIn: [www.linkedin.com/in/gal-omer]
+
+Let's connect and collaborate! 🚀
+
+Thanks for stopping by! 😃
+
+<details>
+  <summary>Click to see a random joke</summary>
+  <div align="center">
+
+  ![Jokes Card](https://readme-jokes.vercel.app/api?theme=halloween)
+
+  </div>
+</details>
+![image](https://github.com/user-attachments/assets/8b6759b4-e54c-413c-9eff-778ac0354615)
