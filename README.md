@@ -40,14 +40,6 @@ Currently, I'm working on **StockTrack**, a web-based platform for tracking stoc
 
 Let's connect and collaborate! 🚀
 
-Thanks for stopping by! 😃
-
-<details>
-  <summary>Click to see a random joke</summary>
-  <div align="center">
-
-  ![Jokes Card](https://readme-jokes.vercel.app/api?theme=halloween)
-
 
 ### 📈 GitHub Stats:
 <div align="center">
@@ -60,4 +52,16 @@ Thanks for stopping by! 😃
 
   ![](https://github-readme-activity-graph.vercel.app/graph?username=Galomer310&theme=tokyo-night)
 </div>
+
+
+Thanks for stopping by! 😃
+
+<details>
+  <summary>Click to see a random joke</summary>
+  <div align="center">
+
+  ![Jokes Card](https://readme-jokes.vercel.app/api?theme=halloween)
+
+
+
 
