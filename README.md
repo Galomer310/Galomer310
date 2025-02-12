@@ -50,6 +50,14 @@ Currently, I'm working on **StockTrack**, a web-based platform for tracking stoc
 - 📧 Email: [galomer6708@gmail.com]
 - 💼 LinkedIn: [www.linkedin.com/in/gal-omer]
 
+### 📬 Contact Me:
+<p align="center">
+  <a href="mailto:galomer6708@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/gal-omer/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://twitter.com/yourhandle"><img src="https://img.shields.io/badge/Twitter-lightblue?style=for-the-badge&logo=twitter&logoColor=white"></a>
+</p>
+
+
 Let's connect and collaborate! 🚀
 
 Thanks for stopping by! 😃
