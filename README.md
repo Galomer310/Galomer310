@@ -69,10 +69,6 @@ Thanks for stopping by! 😃
   ![Jokes Card](https://readme-jokes.vercel.app/api?theme=halloween)
   </div>
 
-  ### 🎧 Now Playing:
-![Spotify](https://novatorem-Galomer310.vercel.app/api/spotify)
-
-
 
 
 
