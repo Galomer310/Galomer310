@@ -44,7 +44,7 @@ Let's connect and collaborate! 🚀
 ### 📈 GitHub Stats:
 <div align="center">
   
-  ![](https://github-readme-stats.vercel.app/api?Galomer310=Galomer310&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false)
+  ![](https://github-readme-stats.vercel.app/api?username=Galomer310&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false)
   
   ![](https://github-readme-streak-stats.herokuapp.com/?user=Galomer310&theme=tokyonight&hide_border=false)
 
