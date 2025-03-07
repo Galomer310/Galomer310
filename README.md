@@ -26,12 +26,13 @@ My primary stack includes:
 - **Authentication:** JWT, bcrypt
 - **APIs & Data:**  RESTful APIs
 
-Currently, I'm working on **StockTrack**, a web-based platform for tracking stock market performance, managing watchlists, and fetching real-time stock data.
+Currently, I'm working on Ehud, a comprehensive web-based platform that empowers users to track their fitness journey with personalized workout plans and health insights.
 
-## What I'm Working On 🛠️
-- Developing **StockTrack** with a robust backend and seamless frontend experience.
-- Enhancing authentication and security features.
-- Optimizing API calls to improve performance.
+What I'm Working On 🛠️
+Building Ehud using a modern tech stack including React, Vite, Redux, TypeScript for the frontend and Node.js, NeonDB, SQL for the backend.
+Implementing secure authentication with detailed registration capturing metrics like height, weight, age, occupation, exercise frequency, sex, and medical conditions.
+Developing a personalized user dashboard (Personal Area) where users can monitor their progress and access future fitness features.
+Enhancing user experience with responsive design and optimized API calls for smooth performance.
 
 ### 📈 GitHub Stats:
 <div align="center">
