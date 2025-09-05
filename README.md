@@ -12,27 +12,51 @@
  <img alt="GIF" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZW45OWF3czZ2aHlkc3V2bDE4NHllbjBvMmNjdmFraW91ZjRiOHoxcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" />
 </div>
 
-
-
 Welcome to my GitHub profile! I'm glad you're here. 😊
 
 ## About Me
 
-I'm a passionate Full Stack Developer with a strong foundation in both frontend and backend technologies
-with love for building web applications and exploring new technologies and Passion for Continuous Learning
-My primary stack includes:
-- **Frontend:** React, TypeScript, Redux, Vite, HTML, CSS, JavaScript, python
-- **Backend:** Node.js, Express, PostgreSQL (NeonDB)
-- **Authentication:** JWT, bcrypt
-- **APIs & Data:**  RESTful APIs
+I’m a passionate **Full Stack Developer** who enjoys building end-to-end web applications, exploring new technologies, and continuously leveling up.
 
-Currently, I'm working on Ehud, a comprehensive web-based platform that empowers users to track their fitness journey with personalized workout plans and health insights.
+**My primary stack includes:**
+- **Frontend:** React, TypeScript, Redux, Vite, HTML, CSS, JavaScript, Python  
+- **Backend:** Node.js, Express, PostgreSQL (NeonDB)  
+- **Authentication:** JWT (access + refresh), bcrypt  
+- **APIs & Data:** RESTful APIs, Zod validation
 
-What I'm Working On 🛠️
-Building Ehud using a modern tech stack including React, Vite, Redux, TypeScript for the frontend and Node.js, NeonDB, SQL for the backend.
-Implementing secure authentication with detailed registration capturing metrics like height, weight, age, occupation, exercise frequency, sex, and medical conditions.
-Developing a personalized user dashboard (Personal Area) where users can monitor their progress and access future fitness features.
-Enhancing user experience with responsive design and optimized API calls for smooth performance.
+---
+
+## 🚀 Current Project — Smart-plate
+
+**Smart-plate** is a web platform for nutrition & training coaching with **separate Admin and User portals**.
+
+### Highlights
+- **Admin**
+  - Create users (name, email, password, diet time) and manage them from a responsive dashboard.
+  - View a user’s first-time questionnaire and automatically calculated **BMI** with color coding (green/yellow/red).
+  - Filter users by **name / age / plan (diet time) / BMI** and perform quick actions (delete, message, view details).
+  - Modular UI (Add-User form, Filters, Users table & details) for easier maintenance and scalability.
+
+- **User (Personal Area)**
+  - Secure login with automatic token refresh and **plan-aware guard** (access stops after the diet window ends).
+  - First-time **questionnaire** (Hebrew prompts) to capture goals and health info.
+  - **Plan header** with calendar (start/end derived from diet time) and a live **“diet day”** counter.
+  - **Plate Planner**: interactive “plate” split by categories  
+    *(50% Dietary Fiber, 20% Protein, 15% Fat, 15% Complex Carbs)* with per-category “Add” dropdowns.
+  - **Shopping/Menu card**: toggleable shopping list and breakfast/lunch/dinner sections, aligned to the same categories.
+
+- **Backend**
+  - Node.js + Express + **NeonDB (PostgreSQL)** with SQL schema/migrations.
+  - JWT access tokens + **httpOnly refresh cookie**; refresh is blocked automatically after plan expiry.
+  - Clean route structure (`auth`, `admin`, `user`) with Zod validation and CORS configured for secure, smooth API calls.
+
+---
+
+## What I'm Working On 🛠️
+- Building **Smart-plate** with React, Vite, Redux, TypeScript (frontend) and Node.js, NeonDB, SQL (backend).
+- Implementing secure authentication (JWT + bcrypt) and a **plan-aware refresh** flow.
+- Developing the **Personal Area**: questionnaire, calendar + diet-day counter, plate planner, and shopping/menu card.
+- Enhancing UX with responsive design, modular components, and optimized Axios client (typed refresh, request queueing).
 
 ### 📈 GitHub Stats:
 <div align="center">
@@ -57,7 +81,6 @@ Enhancing user experience with responsive design and optimized API calls for smo
   <a href="https://twitter.com/yourhandle"><img src="https://img.shields.io/badge/Twitter-lightblue?style=for-the-badge&logo=twitter&logoColor=white"></a>
 </p>
 
-
 Let's connect and collaborate! 🚀
 
 Thanks for stopping by! 😃
@@ -68,7 +91,4 @@ Thanks for stopping by! 😃
 
   ![Jokes Card](https://readme-jokes.vercel.app/api?theme=halloween)
   </div>
-
-
-
-
+</details>
